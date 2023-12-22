@@ -1,7 +1,7 @@
 # Olá!
 
 
-Desenvolvedora Front-end | UI Designer
+Desenvolvedor | Java | Spring Boot | Angular
 
 Meu nome é Fabricio Silva, sou formado em Sistemas de Informação e atualmente trabalho como desenvolvedor back-end utilizando Java | Spring.
 
