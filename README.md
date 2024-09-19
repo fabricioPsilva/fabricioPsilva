@@ -5,7 +5,7 @@ Desenvolvedor | Java | Spring Boot | Angular
 
 Meu nome é Fabricio Silva, sou formado em Sistemas de Informação e atualmente trabalho como desenvolvedor back-end utilizando Java | Spring.
 
-💼 Experiência: 2 anos.
+💼 Experiência: 3 anos.
 
 ##
 
